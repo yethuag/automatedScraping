@@ -1,0 +1,902 @@
+[
+  {
+    "title": "mkcd: The missing shell shortcut",
+    "url": "https://dbohdan.com/mkcd",
+    "id": "44547698",
+    "domain": "dbohdan.com",
+    "hours_ago": 4.112507416666666,
+    "score": 1,
+    "comments": 0,
+    "author": "networked"
+  },
+  {
+    "title": "The JPEG XL Image Coding History, Features, Coding Tools, Design Rationale",
+    "url": "https://arxiv.org/abs/2506.05987",
+    "id": "44547686",
+    "domain": "arxiv.org",
+    "hours_ago": 7.012513366666667,
+    "score": 1,
+    "comments": 0,
+    "author": "ksec"
+  },
+  {
+    "title": "Show HN: I made a vencord plugin to search for messages across discord",
+    "url": "https://blog.jaisal.dev/articles/global-search",
+    "id": "44547630",
+    "domain": "blog.jaisal.dev",
+    "hours_ago": 19.29585216666667,
+    "score": 1,
+    "comments": 0,
+    "author": "AtomicByte"
+  },
+  {
+    "title": "IMO 2025 (International Math Olympiad) starts tomorrow – will DeepMind win Gold?",
+    "url": "https://www.youtube.com/watch?v=vJjgtOcXq8A",
+    "id": "44547611",
+    "domain": "youtube.com",
+    "hours_ago": 22.679191433333337,
+    "score": 2,
+    "comments": 1,
+    "author": "mathsTeacher82"
+  },
+  {
+    "title": "The largest Git repo on the planet",
+    "url": "https://devblogs.microsoft.com/bharry/the-largest-git-repo-on-the-planet/",
+    "id": "44547595",
+    "domain": "devblogs.microsoft.com",
+    "hours_ago": 25.4958648,
+    "score": 2,
+    "comments": 0,
+    "author": "fisheuler"
+  },
+  {
+    "title": "A Deep Dive into X's Community Notes",
+    "url": "https://ddia.org/en/a-deep-dive-into-xs-community-notes-report",
+    "id": "44547555",
+    "domain": "ddia.org",
+    "hours_ago": 36.2292055,
+    "score": 1,
+    "comments": 1,
+    "author": "aspenmayer"
+  },
+  {
+    "title": "Rize.io Productivity Measurement and Tracking for Your PC or Mac",
+    "url": "https://rize.io/?via=akb",
+    "id": "44547550",
+    "domain": "rize.io",
+    "hours_ago": 37.86254696666666,
+    "score": 1,
+    "comments": 1,
+    "author": "azarudeen"
+  },
+  {
+    "title": "Nuclear Explosion for Carbon Sequestration",
+    "url": "https://arxiv.org/abs/2501.06623",
+    "id": "44547538",
+    "domain": "arxiv.org",
+    "hours_ago": 39.17922261666667,
+    "score": 2,
+    "comments": 0,
+    "author": "energy123"
+  },
+  {
+    "title": "MCP sHTTP server (+Cursor integration)",
+    "url": "https://blog.toolkami.com/toolkami-shttp-server/",
+    "id": "44547521",
+    "domain": "blog.toolkami.com",
+    "hours_ago": 42.579232299999994,
+    "score": 1,
+    "comments": 1,
+    "author": "SafeDusk"
+  },
+  {
+    "title": "NLP Made Simple: Tokenization, Embeddings and Transformers [video]",
+    "url": "https://www.youtube.com/watch?v=5QQOte4IyIw",
+    "id": "44547516",
+    "domain": "youtube.com",
+    "hours_ago": 43.4125761,
+    "score": 1,
+    "comments": 0,
+    "author": "paulakshat"
+  },
+  {
+    "title": "A Never-Ending Supply of Drones Has Frozen the Front Lines in Ukraine",
+    "url": "https://www.wsj.com/world/europe/a-never-ending-supply-of-drones-has-frozen-the-front-lines-in-ukraine-ae29c581",
+    "id": "44547509",
+    "domain": "wsj.com",
+    "hours_ago": 44.49592161666667,
+    "score": 2,
+    "comments": 0,
+    "author": "sandwichsphinx"
+  },
+  {
+    "title": "Ask HN: Where are the AI-driven profits or promotions?",
+    "url": "item?id=44547505",
+    "id": "44547505",
+    "domain": "item?id=44547505",
+    "hours_ago": 45.19593416666667,
+    "score": 4,
+    "comments": 3,
+    "author": "arduinomancer"
+  },
+  {
+    "title": "China's electric car revolution hammers demand for oil",
+    "url": "https://www.telegraph.co.uk/business/2025/07/11/oil-demmand-slowest-pace-2009/",
+    "id": "44547488",
+    "domain": "telegraph.co.uk",
+    "hours_ago": 48.62928023333333,
+    "score": 3,
+    "comments": 1,
+    "author": "toomuchtodo"
+  },
+  {
+    "title": "Show HN: A 100% Workaround to MV3",
+    "url": "https://floorp.app/",
+    "id": "44547485",
+    "domain": "floorp.app",
+    "hours_ago": 49.279293683333336,
+    "score": 1,
+    "comments": 0,
+    "author": "jklas2hjdsdk"
+  },
+  {
+    "title": "Will you help build our new visual identity?",
+    "url": "https://meta.stackexchange.com/questions/411312/will-you-help-build-our-new-visual-identity",
+    "id": "44547477",
+    "domain": "meta.stackexchange.com",
+    "hours_ago": 51.179307699999995,
+    "score": 1,
+    "comments": 2,
+    "author": "coobird"
+  },
+  {
+    "title": "GumTree: A syntax-aware diff tool",
+    "url": "https://github.com/GumTreeDiff/gumtree",
+    "id": "44547463",
+    "domain": "github.com",
+    "hours_ago": 53.512655816666665,
+    "score": 2,
+    "comments": 0,
+    "author": "0x54MUR41"
+  },
+  {
+    "title": "Processing our technological angst through humor",
+    "url": "https://news.mit.edu/2025/processing-technological-angst-through-humor-benjamin-mangrum-book-0709",
+    "id": "44547459",
+    "domain": "news.mit.edu",
+    "hours_ago": 54.296004616666664,
+    "score": 1,
+    "comments": 0,
+    "author": "wslh"
+  },
+  {
+    "title": "New Windows 11 build adds self-healing \"quick machine recovery\" feature",
+    "url": "https://arstechnica.com/gadgets/2025/07/new-windows-11-build-adds-self-healing-quick-machine-recovery-feature/",
+    "id": "44547433",
+    "domain": "arstechnica.com",
+    "hours_ago": 59.96268753333333,
+    "score": 3,
+    "comments": 0,
+    "author": "thunderbong"
+  },
+  {
+    "title": "Movie Barcode Guessing Game",
+    "url": "https://bardle.streamlit.app",
+    "id": "44547432",
+    "domain": "bardle.streamlit.app",
+    "hours_ago": 60.079371599999995,
+    "score": 1,
+    "comments": 0,
+    "author": "Abhz"
+  },
+  {
+    "title": "Queens Game",
+    "url": "https://www.queensgame.app/",
+    "id": "44547389",
+    "domain": "queensgame.app",
+    "hours_ago": 68.87938941666665,
+    "score": 1,
+    "comments": 0,
+    "author": "willy158"
+  },
+  {
+    "title": "The DeepSeek Delusion: China's AI \"Sputnik Moment\" Was a Mirage",
+    "url": "https://medium.com/@giant_chen1688/the-deepseek-delusion-why-chinas-ai-sputnik-moment-was-a-mirage-2fe6a5aa9020",
+    "id": "44547379",
+    "domain": "medium.com",
+    "hours_ago": 70.66274165,
+    "score": 5,
+    "comments": 2,
+    "author": "geox"
+  },
+  {
+    "title": "Mautic: Open-Source Marketing Automation Software",
+    "url": "https://github.com/mautic/mautic",
+    "id": "44547354",
+    "domain": "github.com",
+    "hours_ago": 77.29609443333334,
+    "score": 2,
+    "comments": 0,
+    "author": "thunderbong"
+  },
+  {
+    "title": "The imposter syndrome of growing up poor and now living in a wealthy city",
+    "url": "https://medium.com/@jkim_tran/the-imposter-syndrome-of-growing-up-poor-and-now-living-in-a-wealthy-city-2a72bb35b6ec",
+    "id": "44547346",
+    "domain": "medium.com",
+    "hours_ago": 78.72944808333334,
+    "score": 2,
+    "comments": 2,
+    "author": "jennifer-trin"
+  },
+  {
+    "title": "Dearest C++, Let Me Count the Ways I Love/Hate Thee",
+    "url": "https://hackaday.com/2025/07/11/dearest-c-let-me-count-the-ways-i-love-hate-thee/",
+    "id": "44547322",
+    "domain": "hackaday.com",
+    "hours_ago": 85.14613564999999,
+    "score": 1,
+    "comments": 0,
+    "author": "ibobev"
+  },
+  {
+    "title": "Why measuring productivity is hard",
+    "url": "https://lemire.me/blog/2025/07/12/why-measuring-productivity-is-hard/",
+    "id": "44547313",
+    "domain": "lemire.me",
+    "hours_ago": 86.59615726666667,
+    "score": 3,
+    "comments": 0,
+    "author": "ibobev"
+  },
+  {
+    "title": "Show HN: PDF Resume AI – AI-powered resume optimizer to beat ATS systems",
+    "url": "https://pdfresumeai.online/",
+    "id": "44547306",
+    "domain": "pdfresumeai.online",
+    "hours_ago": 88.81284629999999,
+    "score": 1,
+    "comments": 0,
+    "author": "dahuangf"
+  },
+  {
+    "title": "Unminified prompts and tool definitions for Claude Code",
+    "url": "https://gist.github.com/transitive-bullshit/487c9cb52c75a9701d312334ed53b20c",
+    "id": "44547293",
+    "domain": "gist.github.com",
+    "hours_ago": 91.76286955,
+    "score": 2,
+    "comments": 0,
+    "author": "talos"
+  },
+  {
+    "title": "'I felt pure, unconditional love': the people who marry their AI chatbots",
+    "url": "https://www.theguardian.com/tv-and-radio/2025/jul/12/i-felt-pure-unconditional-love-the-people-who-marry-their-ai-chatbots",
+    "id": "44547288",
+    "domain": "theguardian.com",
+    "hours_ago": 93.34622698333332,
+    "score": 2,
+    "comments": 0,
+    "author": "hackernj"
+  },
+  {
+    "title": "ACP Agent Communication Protocol Course with Deeplearning.ai",
+    "url": "https://learn.deeplearning.ai/courses/acp-agent-communication-protocol/lesson/yg0qt/introduction",
+    "id": "44547284",
+    "domain": "learn.deeplearning.ai",
+    "hours_ago": 93.97958506666667,
+    "score": 2,
+    "comments": 0,
+    "author": "schwentkerr"
+  },
+  {
+    "title": "The Nuclear Mirage",
+    "url": "https://www.theenergymix.com/the-nuclear-mirage-why-small-modular-reactors-wont-save-nuclear-power/",
+    "id": "44547243",
+    "domain": "theenergymix.com",
+    "hours_ago": 106.09627726666666,
+    "score": 2,
+    "comments": 2,
+    "author": "mensetmanusman"
+  },
+  {
+    "title": "Soaring electric truck sales deal new blow to diesel use in China",
+    "url": "https://www.reuters.com/sustainability/climate-energy/soaring-electric-truck-sales-deal-new-blow-diesel-use-china-2025-07-11/",
+    "id": "44547223",
+    "domain": "reuters.com",
+    "hours_ago": 111.46642955,
+    "score": 6,
+    "comments": 1,
+    "author": "xbmcuser"
+  },
+  {
+    "title": "Show HN: A Comprehensive AI Data Quality Evaluation Tool",
+    "url": "https://github.com/MigoXLab/dingo",
+    "id": "44547214",
+    "domain": "github.com",
+    "hours_ago": 113.36643496666667,
+    "score": 2,
+    "comments": 0,
+    "author": "e06084"
+  },
+  {
+    "title": "Maps on Chains",
+    "url": "http://bannalia.blogspot.com/2025/07/maps-on-chains.html",
+    "id": "44547163",
+    "domain": "bannalia.blogspot.com",
+    "hours_ago": 124.69977420000001,
+    "score": 1,
+    "comments": 0,
+    "author": "ibobev"
+  },
+  {
+    "title": "Distributed vs. Centralized Economies: Empowering SMBs for Innovation and Growth",
+    "url": "https://www.memorly.ai/blog/our-blog-1/distributed-vs-centralized-economies-empowering-msmes-for-innovation-and-growth-33",
+    "id": "44547145",
+    "domain": "memorly.ai",
+    "hours_ago": 129.88311375,
+    "score": 1,
+    "comments": 0,
+    "author": "madanram92"
+  },
+  {
+    "title": "Generative artwork using the Earth's natural radio and atmospheric noise",
+    "url": "https://www.mattdesl.com/sferics",
+    "id": "44547106",
+    "domain": "mattdesl.com",
+    "hours_ago": 140.63312026666665,
+    "score": 1,
+    "comments": 0,
+    "author": "Nars088"
+  },
+  {
+    "title": "Show HN: 0xDEAD//Type – A Fast-Paced Typing Shooter with Retro Vibes",
+    "url": "https://0xdeadtype.theden.sh/",
+    "id": "44547105",
+    "domain": "0xdeadtype.theden.sh",
+    "hours_ago": 140.71646090000002,
+    "score": 2,
+    "comments": 0,
+    "author": "theden"
+  },
+  {
+    "title": "Edward Burtynsky's monumental chronicle of the human impact on the planet",
+    "url": "https://www.newyorker.com/culture/photo-booth/earths-poet-of-scale",
+    "id": "44547089",
+    "domain": "newyorker.com",
+    "hours_ago": 145.93313568333332,
+    "score": 5,
+    "comments": 2,
+    "author": "pseudolus"
+  },
+  {
+    "title": "Ask HN: Have you left a high paying gig because you hated the day-to-day work?",
+    "url": "item?id=44547072",
+    "id": "44547072",
+    "domain": "item?id=44547072",
+    "hours_ago": 150.11647811666666,
+    "score": 4,
+    "comments": 2,
+    "author": "ronbenton"
+  },
+  {
+    "title": "The Future of Tech Regulation Is Both Stupid and Scary",
+    "url": "https://nymag.com/intelligencer/article/the-future-of-ai-regulation-is-both-stupid-and-scary.html",
+    "id": "44547065",
+    "domain": "nymag.com",
+    "hours_ago": 151.21648765,
+    "score": 3,
+    "comments": 1,
+    "author": "pseudolus"
+  },
+  {
+    "title": "RinaWarp Terminal v1.0.9 Beta Access – Now Available",
+    "url": "https://rinawarp-terminal.vercel.app/pricing",
+    "id": "44547039",
+    "domain": "rinawarp-terminal.vercel.app",
+    "hours_ago": 155.04983185,
+    "score": 1,
+    "comments": 1,
+    "author": "rinawarpt25"
+  },
+  {
+    "title": "Ask HN: What Are You Grateful For?",
+    "url": "item?id=44547028",
+    "id": "44547028",
+    "domain": "item?id=44547028",
+    "hours_ago": 156.91650978333334,
+    "score": 1,
+    "comments": 0,
+    "author": "behnamoh"
+  },
+  {
+    "title": "Intro to STAC – Matthew Hanson [video]",
+    "url": "https://www.youtube.com/watch?v=1KPvEnH29sU",
+    "id": "44547026",
+    "domain": "youtube.com",
+    "hours_ago": 157.06652145,
+    "score": 1,
+    "comments": 0,
+    "author": "marklit"
+  },
+  {
+    "title": "Evaluating Image Compression Tools",
+    "url": "https://www.rachelplusplus.me.uk/blog/2025/06/evaluating-image-compression-tools/",
+    "id": "44547004",
+    "domain": "rachelplusplus.me.uk",
+    "hours_ago": 162.26653380000002,
+    "score": 1,
+    "comments": 0,
+    "author": "ksec"
+  },
+  {
+    "title": "Ultra-Efficient Solar Power (2013)",
+    "url": "https://www.technologyreview.com/technology/ultra-efficient-solar-power/",
+    "id": "44546999",
+    "domain": "technologyreview.com",
+    "hours_ago": 163.03321368333334,
+    "score": 1,
+    "comments": 0,
+    "author": "sandwichsphinx"
+  },
+  {
+    "title": "MVC Isn't MVC – Collin Donnell",
+    "url": "https://collin.blog/2023/06/19/mvc-isnt-mvc/",
+    "id": "44546991",
+    "domain": "collin.blog",
+    "hours_ago": 164.71656091666665,
+    "score": 1,
+    "comments": 2,
+    "author": "tambourine_man"
+  },
+  {
+    "title": "Toilet Paper Value Calculator",
+    "url": "https://tetrion.com/tpcalc.php",
+    "id": "44546987",
+    "domain": "tetrion.com",
+    "hours_ago": 166.04990923333335,
+    "score": 1,
+    "comments": 0,
+    "author": "RyanShook"
+  },
+  {
+    "title": "The curious rise of giant tablets on wheels",
+    "url": "https://arstechnica.com/gadgets/2025/07/the-curious-rise-of-giant-tablets-on-wheels/",
+    "id": "44546986",
+    "domain": "arstechnica.com",
+    "hours_ago": 166.21659176666665,
+    "score": 3,
+    "comments": 0,
+    "author": "PaulHoule"
+  },
+  {
+    "title": "Can I DevTools?",
+    "url": "https://www.canidev.tools",
+    "id": "44546985",
+    "domain": "canidev.tools",
+    "hours_ago": 166.58327484999998,
+    "score": 3,
+    "comments": 0,
+    "author": "OuterVale"
+  },
+  {
+    "title": "Switched on Bach",
+    "url": "https://archive.org/details/wendy-carlos-witched-on-bach",
+    "id": "44546979",
+    "domain": "archive.org",
+    "hours_ago": 167.48329176666664,
+    "score": 2,
+    "comments": 0,
+    "author": "Bluestein"
+  },
+  {
+    "title": "Mill: A Better Build Tool for Java, Scala, & Kotlin",
+    "url": "https://mill-build.org/mill/index.html",
+    "id": "44546971",
+    "domain": "mill-build.org",
+    "hours_ago": 170.399976,
+    "score": 1,
+    "comments": 0,
+    "author": "lihaoyi"
+  },
+  {
+    "title": "Midio",
+    "url": "https://midio.com/",
+    "id": "44546956",
+    "domain": "midio.com",
+    "hours_ago": 173.34999448333335,
+    "score": 2,
+    "comments": 0,
+    "author": "handfuloflight"
+  },
+  {
+    "title": "Science is debunking the myth of the 'alpha male'",
+    "url": "https://www.independent.ie/opinion/comment/leo-sands-how-science-is-debunking-the-myth-of-the-alpha-male/a2101538628.html",
+    "id": "44546928",
+    "domain": "independent.ie",
+    "hours_ago": 179.50001408333335,
+    "score": 2,
+    "comments": 0,
+    "author": "Bluestein"
+  },
+  {
+    "title": "Towards a Foundational Understanding of Causality",
+    "url": "https://deepcausality.com/blog/towards-undamental-causality/",
+    "id": "44546923",
+    "domain": "deepcausality.com",
+    "hours_ago": 180.40003431666668,
+    "score": 3,
+    "comments": 0,
+    "author": "marvin-hansen"
+  },
+  {
+    "title": "Where are the right-wing scientists? Everyone's on the left like me",
+    "url": "https://www.thetimes.com/uk/science/article/where-are-the-right-wing-scientists-everyones-a-leftie-like-me-g28qrglf0",
+    "id": "44546921",
+    "domain": "thetimes.com",
+    "hours_ago": 180.66672186666668,
+    "score": 12,
+    "comments": 10,
+    "author": "petethomas"
+  },
+  {
+    "title": "Scientists hide messages in papers to game AI peer review",
+    "url": "https://www.nature.com/articles/d41586-025-02172-y",
+    "id": "44546867",
+    "domain": "nature.com",
+    "hours_ago": 193.98341006666666,
+    "score": 2,
+    "comments": 1,
+    "author": "WaitWaitWha"
+  },
+  {
+    "title": "Show HN: A modern alternative to traditional fantasy name generators",
+    "url": "https://nomenus.io",
+    "id": "44546865",
+    "domain": "nomenus.io",
+    "hours_ago": 194.08343295,
+    "score": 1,
+    "comments": 1,
+    "author": "qinggeng"
+  },
+  {
+    "title": "Show HN: FluidAudio – Swift Speaker Diarization on CoreML",
+    "url": "https://github.com/FluidInference/FluidAudio",
+    "id": "44546863",
+    "domain": "github.com",
+    "hours_ago": 194.28345643333333,
+    "score": 3,
+    "comments": 0,
+    "author": "Wayve"
+  },
+  {
+    "title": "Gut microbes may flush 'forever chemicals' from the body",
+    "url": "https://www.sciencenews.org/article/gut-microbes-flush-pfas-from-body",
+    "id": "44546855",
+    "domain": "sciencenews.org",
+    "hours_ago": 195.86681351666667,
+    "score": 2,
+    "comments": 1,
+    "author": "WaitWaitWha"
+  },
+  {
+    "title": "Can Multinationals Win in China? Lessons from Apple's Experience",
+    "url": "https://www.youtube.com/watch?v=QA_klg8sm_A",
+    "id": "44546853",
+    "domain": "youtube.com",
+    "hours_ago": 196.03350508333332,
+    "score": 2,
+    "comments": 0,
+    "author": "ksec"
+  },
+  {
+    "title": "NexusYC Powered by JoyceGPT",
+    "url": "https://poe.com/AcceleratorYC",
+    "id": "44546842",
+    "domain": "poe.com",
+    "hours_ago": 199.0335304666667,
+    "score": 1,
+    "comments": 1,
+    "author": "Jon_Behrendt"
+  },
+  {
+    "title": "My Favourite German Word",
+    "url": "https://vurt.org/articles/my-favourite-german-word/",
+    "id": "44546838",
+    "domain": "vurt.org",
+    "hours_ago": 199.48349420000002,
+    "score": 1,
+    "comments": 0,
+    "author": "handfuloflight"
+  },
+  {
+    "title": "ZipNN: Lossless Compression for AI Models (2024)",
+    "url": "https://arxiv.org/abs/2411.05239",
+    "id": "44546820",
+    "domain": "arxiv.org",
+    "hours_ago": 202.55016621666667,
+    "score": 1,
+    "comments": 0,
+    "author": "sandwichsphinx"
+  },
+  {
+    "title": "Palmer Luckey: Aliens, AI Weapons, China and Global Conflict",
+    "url": "https://www.youtube.com/watch?v=21I_3VEs0iI",
+    "id": "44546794",
+    "domain": "youtube.com",
+    "hours_ago": 209.10017208333332,
+    "score": 1,
+    "comments": 0,
+    "author": "andsoitis"
+  },
+  {
+    "title": "Arizona Resident Dies from Plague, Officials Say",
+    "url": "https://www.nytimes.com/2025/07/12/us/pneumonic-plague-arizona-death.html",
+    "id": "44546787",
+    "domain": "nytimes.com",
+    "hours_ago": 210.63351163333334,
+    "score": 2,
+    "comments": 1,
+    "author": "reaperducer"
+  },
+  {
+    "title": "Ask HN: Has anybody gotten a Node.js MCP server to work with HTTP?",
+    "url": "item?id=44546765",
+    "id": "44546765",
+    "domain": "item?id=44546765",
+    "hours_ago": 215.7501848666667,
+    "score": 2,
+    "comments": 1,
+    "author": "rglover"
+  },
+  {
+    "title": "Node-Esapi – Enterprise Security API for JavaScript Encoder",
+    "url": "https://github.com/ESAPI/node-esapi",
+    "id": "44546761",
+    "domain": "github.com",
+    "hours_ago": 216.18352535000002,
+    "score": 1,
+    "comments": 0,
+    "author": "Brysonbw"
+  },
+  {
+    "title": "I Can Haz Knowledgebase",
+    "url": "https://www.autodidacts.io/knowledgebase/",
+    "id": "44546756",
+    "domain": "autodidacts.io",
+    "hours_ago": 217.38353325,
+    "score": 1,
+    "comments": 0,
+    "author": "Curiositry"
+  },
+  {
+    "title": "NamiGen: Free and Local Alternative to ElevenLabs",
+    "url": "https://namigen.com/",
+    "id": "44546755",
+    "domain": "namigen.com",
+    "hours_ago": 217.51687531666667,
+    "score": 3,
+    "comments": 2,
+    "author": "divamgupta"
+  },
+  {
+    "title": "Your LLM Framework Only Needs 100 Lines",
+    "url": "https://the-pocket.github.io/PocketFlow-Tutorial-Video-Generator/pocketflow",
+    "id": "44546729",
+    "domain": "the-pocket.github.io",
+    "hours_ago": 222.06688566666665,
+    "score": 2,
+    "comments": 1,
+    "author": "zh2408"
+  },
+  {
+    "title": "A.I. Is Making Sure You Pay for That Ding on Your Rental Car",
+    "url": "https://www.nytimes.com/2025/07/09/travel/rental-car-ai-scanner-hertz.html",
+    "id": "44546707",
+    "domain": "nytimes.com",
+    "hours_ago": 227.06689591666668,
+    "score": 39,
+    "comments": 50,
+    "author": "pseudolus"
+  },
+  {
+    "title": "Clock Bait: Why the Moon Needs Its Own Time Zone",
+    "url": "https://cacm.acm.org/news/clock-bait-why-the-moon-needs-its-own-time-zone/",
+    "id": "44546692",
+    "domain": "cacm.acm.org",
+    "hours_ago": 229.95024026666667,
+    "score": 1,
+    "comments": 0,
+    "author": "pseudolus"
+  },
+  {
+    "title": "DARPA Sets New Record for Wireless Power Beaming",
+    "url": "https://spectrum.ieee.org/darpa-optical-wireless-power",
+    "id": "44546679",
+    "domain": "spectrum.ieee.org",
+    "hours_ago": 233.06691875,
+    "score": 1,
+    "comments": 1,
+    "author": "pseudolus"
+  },
+  {
+    "title": "Weltschmerz",
+    "url": "https://en.wikipedia.org/wiki/Weltschmerz",
+    "id": "44546672",
+    "domain": "en.wikipedia.org",
+    "hours_ago": 234.41693136666666,
+    "score": 2,
+    "comments": 1,
+    "author": "axiologist"
+  },
+  {
+    "title": "Hacking Coroutines into C",
+    "url": "https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html",
+    "id": "44546640",
+    "domain": "wiomoc.de",
+    "hours_ago": 240.3336113833333,
+    "score": 53,
+    "comments": 11,
+    "author": "jmillikin"
+  },
+  {
+    "title": "Brands in Orbit: The Growing Battle over Space Advertising",
+    "url": "https://esstnews.com/brands-orbit-growing-battle-over-space-advertising/",
+    "id": "44546624",
+    "domain": "esstnews.com",
+    "hours_ago": 244.06695870000001,
+    "score": 2,
+    "comments": 0,
+    "author": "thunderbong"
+  },
+  {
+    "title": "Show HN: N8n AI Assistant – N8n Workflow Generator",
+    "url": "https://chromewebstore.google.com/detail/n8n-ai-assistant-n8n-work/jhoiggagfoakmjjajgmkcagpnkeikeon",
+    "id": "44546616",
+    "domain": "chromewebstore.google.com",
+    "hours_ago": 244.61697431666667,
+    "score": 4,
+    "comments": 1,
+    "author": "qwikhost"
+  },
+  {
+    "title": "Energy Expert: Nuclear Is the Answer, Net Zero Is the Problem [video]",
+    "url": "https://www.youtube.com/watch?v=EgHbCqzQGkc",
+    "id": "44546606",
+    "domain": "youtube.com",
+    "hours_ago": 246.40032346666666,
+    "score": 7,
+    "comments": 1,
+    "author": "gjvc"
+  },
+  {
+    "title": "Arbitrary Design of DNA-Programmable 3D Crystals Through Symmetry Mapping",
+    "url": "https://pubs.acs.org/doi/10.1021/acsnano.4c17408",
+    "id": "44546603",
+    "domain": "pubs.acs.org",
+    "hours_ago": 246.7170065833333,
+    "score": 1,
+    "comments": 0,
+    "author": "PaulHoule"
+  },
+  {
+    "title": "Banned Filipino fishermen documentary can be seen in NZ",
+    "url": "https://www.rnz.co.nz/life/screens/movies/banned-filipino-fishermen-documentary-can-be-seen-in-nz",
+    "id": "44546583",
+    "domain": "rnz.co.nz",
+    "hours_ago": 250.36702368333331,
+    "score": 19,
+    "comments": 2,
+    "author": "colinprince"
+  },
+  {
+    "title": "Show HN: Amazon Images Downloader – Amazon Image and Video Downloader",
+    "url": "https://chromewebstore.google.com/detail/amazon-images-downloader/cnciclmbljmfepdncgojigeedkdlbehf",
+    "id": "44546581",
+    "domain": "chromewebstore.google.com",
+    "hours_ago": 250.61704153333335,
+    "score": 1,
+    "comments": 0,
+    "author": "qwikhost"
+  },
+  {
+    "title": "Ignaz Semmelweis",
+    "url": "https://en.wikipedia.org/wiki/Ignaz_Semmelweis",
+    "id": "44546568",
+    "domain": "en.wikipedia.org",
+    "hours_ago": 252.85039498333333,
+    "score": 3,
+    "comments": 1,
+    "author": "Anon84"
+  },
+  {
+    "title": "The Symbol Grounding Problem (1990)",
+    "url": "https://arxiv.org/html/cs/9906002",
+    "id": "44546567",
+    "domain": "arxiv.org",
+    "hours_ago": 252.88374868333332,
+    "score": 3,
+    "comments": 0,
+    "author": "Fibra"
+  },
+  {
+    "title": "Startup just hit a big milestone for green steel production",
+    "url": "https://www.technologyreview.com/2025/03/12/1113130/green-steel-boston-metal/",
+    "id": "44546533",
+    "domain": "technologyreview.com",
+    "hours_ago": 260.983769,
+    "score": 18,
+    "comments": 2,
+    "author": "ohjeez"
+  },
+  {
+    "title": "Node.js Core Working Groups",
+    "url": "https://github.com/nodejs/TSC/blob/main/WORKING_GROUPS.md",
+    "id": "44546517",
+    "domain": "github.com",
+    "hours_ago": 263.7837900833333,
+    "score": 1,
+    "comments": 0,
+    "author": "Brysonbw"
+  },
+  {
+    "title": "Show HN: I made a private, portable, virtual LLM OS with JavaScript and Gemini",
+    "url": "https://oopisos.neocities.org/",
+    "id": "44546508",
+    "domain": "oopisos.neocities.org",
+    "hours_ago": 266.3838120333333,
+    "score": 1,
+    "comments": 0,
+    "author": "oopismcgoopis"
+  },
+  {
+    "title": "Dumb-init, an init system for Docker containers",
+    "url": "https://engineeringblog.yelp.com/2016/01/dumb-init-an-init-for-docker.html",
+    "id": "44546498",
+    "domain": "engineeringblog.yelp.com",
+    "hours_ago": 269.00050135000004,
+    "score": 3,
+    "comments": 2,
+    "author": "Brysonbw"
+  },
+  {
+    "title": "Apple's China Crisis – $1T Payment to Xi Jinping Exposed [video]",
+    "url": "https://www.youtube.com/watch?v=t0Ib_65qd6I",
+    "id": "44546494",
+    "domain": "youtube.com",
+    "hours_ago": 269.85052478333336,
+    "score": 7,
+    "comments": 2,
+    "author": "trinsic2"
+  },
+  {
+    "title": "An Efficient Anti-Aliasing Technique [Paper Implementation]",
+    "url": "https://leetarxiv.substack.com/p/an-efficient-anti-aliasing-technique",
+    "id": "44546447",
+    "domain": "leetarxiv.substack.com",
+    "hours_ago": 279.03388241666664,
+    "score": 1,
+    "comments": 0,
+    "author": "thunderbong"
+  },
+  {
+    "title": "MoonPay executives may have sent $250k to Nigerian scammer",
+    "url": "https://www.theblock.co/post/362339/moonpay-executives-may-have-sent-250000-to-nigerian-scammer-doj-filing-suggests",
+    "id": "44546422",
+    "domain": "theblock.co",
+    "hours_ago": 283.60057370000004,
+    "score": 37,
+    "comments": 4,
+    "author": "wslh"
+  },
+  {
+    "title": "Windsurf Gambit: How a $28M pivot became a $2.4B Google acquisition",
+    "url": "item?id=44546412",
+    "id": "44546412",
+    "domain": "item?id=44546412",
+    "hours_ago": 285.8839328,
+    "score": 5,
+    "comments": 0,
+    "author": "schwentkerr"
+  }
+]
